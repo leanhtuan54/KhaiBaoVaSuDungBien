@@ -1,0 +1,14 @@
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\bin\Debug\net8.0\KhaiBaoVaSuDungBien.exe
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\bin\Debug\net8.0\KhaiBaoVaSuDungBien.deps.json
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\bin\Debug\net8.0\KhaiBaoVaSuDungBien.runtimeconfig.json
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\bin\Debug\net8.0\KhaiBaoVaSuDungBien.dll
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\bin\Debug\net8.0\KhaiBaoVaSuDungBien.pdb
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\obj\Debug\net8.0\KhaiBaoVaSuDungBien.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\obj\Debug\net8.0\KhaiBaoVaSuDungBien.AssemblyInfoInputs.cache
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\obj\Debug\net8.0\KhaiBaoVaSuDungBien.AssemblyInfo.cs
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\obj\Debug\net8.0\KhaiBaoVaSuDungBien.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\obj\Debug\net8.0\KhaiBaoVaSuDungBien.dll
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\obj\Debug\net8.0\refint\KhaiBaoVaSuDungBien.dll
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\obj\Debug\net8.0\KhaiBaoVaSuDungBien.pdb
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\obj\Debug\net8.0\KhaiBaoVaSuDungBien.genruntimeconfig.cache
+D:\WorkSpace\C#_EX\4\KhaiBaoVaSuDungBien\obj\Debug\net8.0\ref\KhaiBaoVaSuDungBien.dll
